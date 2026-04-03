@@ -119,16 +119,16 @@ export default function AppBody() {
             margin: '0 auto',
           }}
         >
-          <Image alt='wheel' src='/theme-tet/wheel-1000.png' style={{ objectFit: 'cover' }} />
+          <Image alt='wheel' src='/theme-tet/wheel-6.webp' style={{ objectFit: 'cover' }} />
         </motion.div>}
         {/* <Image
           alt='pin'
-          src='/pin.svg'
-          maw={98.18 * widthFactor}
+          src='/theme-tet/wheel-nail.png'
+          maw={40 * widthFactor}
           w='100%'
           mx='auto'
           pos='absolute'
-          top={216 * widthFactor}
+          top={250 * widthFactor}
           left={0}
           right={0}
         /> */}
