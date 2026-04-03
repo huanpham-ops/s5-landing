@@ -119,7 +119,7 @@ export default function AppBody() {
             margin: '0 auto',
           }}
         >
-          <Image alt='wheel' src='/theme-tet/wheel-7.webp' style={{ objectFit: 'cover' }} />
+          <Image alt='wheel' src='/theme-tet/wheel-9.webp' style={{ objectFit: 'cover' }} />
         </motion.div>}
         {/* <Image
           alt='pin'
