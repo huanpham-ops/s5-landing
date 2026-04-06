@@ -51,7 +51,7 @@ export default function AppBody() {
       <Box pos='relative' pt={6}>
         <Image
           alt='xmas-top'
-          src='/theme-tet/xmas-top-2.webp'
+          src='/theme-tet/xmas-top-20.webp'
           w={448 * widthFactor}
           h={'auto'}
           mx='auto'
@@ -110,16 +110,16 @@ export default function AppBody() {
           transition={{ duration: SPIN_DURATION, ease: 'easeInOut' }}
           style={{
             position: 'absolute',
-            top: widthFactor * 150,
+            top: widthFactor * 112,
             left: 4,
             right: 0,
             zIndex: -1,
-            width: 232 * widthFactor,
-            height: 232 * widthFactor,
+            width: 310 * widthFactor,
+            height: 310 * widthFactor,
             margin: '0 auto',
           }}
         >
-          <Image alt='wheel' src='/theme-tet/wheel-9.webp' style={{ objectFit: 'cover' }} />
+          <Image alt='wheel' src='/theme-tet/wheel-20.webp' style={{ objectFit: 'cover' }} />
         </motion.div>}
         {/* <Image
           alt='pin'

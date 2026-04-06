@@ -38,7 +38,7 @@ export default function WonModal({ opened, widthFactor }: Props) {
       }}
     >
       <Center component={Link} href={href}>
-        <Image src='/you-won.svg' alt='you-won' w={416 * widthFactor} />
+        <Image src='/theme-tet/reward-20.webp' alt='you-won' w={400 * widthFactor} />
       </Center>
     </Modal>
   )
