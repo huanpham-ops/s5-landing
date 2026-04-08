@@ -9,6 +9,7 @@ type Props = {
   widthFactor: number
 }
 
+
 const DEFAULT_URL = 'https://www.s5.com/en/signup?aff=xd'
 
 const URL_MAP: Record<string, string> = {
